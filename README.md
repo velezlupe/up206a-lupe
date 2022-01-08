@@ -25,5 +25,5 @@ I am interested in the development of affordable housing, displacement and homel
 **Project Ideas could include**: 
 * Mapping sites that are eligible to become affordable housing, juxtaposed with ongoing private development. 
 * Identifying areas of high eviction rates and identifying communities of high risk.
-* Visualizing the history and change of neighborhoods, trends, zoning laws, racial makeup, demographics, development. 
+* Visualizing the history and change of neighborhoods, trends, zoning, racial makeup, demographics, development. 
 * How climate change impacts low income communities and people of color.
